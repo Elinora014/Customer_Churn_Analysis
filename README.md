@@ -18,7 +18,7 @@ The data underwent thorough cleaning and transformation, with additional conditi
 
 # Visualization
 
-# Recommendation
+# Recommendations
 - The bank should conduct targeted customer engagement and retention strategies specifically for German customers. This could include personalized offers, better customer service, and localized marketing efforts.
 -  Introduce loyalty programs, financial incentives, or improved customer support for mid-tenure and young-tenure customers to increase retention.
 -  Understand the pain points of female customers and implement targeted retention campaigns, possibly offering personalized banking products that cater to their specific needs.

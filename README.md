@@ -16,7 +16,7 @@ The data underwent thorough cleaning and transformation, with additional conditi
 
   ![Screenshot 2025-02-04 173154](https://github.com/user-attachments/assets/a8c2f015-902e-40fc-9f6e-69e19e9896c1)
 
-# Visualization
+# Visualization and Insights
 
 # Recommendations
 - The bank should conduct targeted customer engagement and retention strategies specifically for German customers. This could include personalized offers, better customer service, and localized marketing efforts.

@@ -19,10 +19,32 @@ The data underwent thorough cleaning and transformation, with additional conditi
 # Visualization and Insights
 This dashboard summarizes customer churn (customers leaving) for a company with 10,000 total customers, of which 2,000 (20.4%) have churned, leaving 5,000 active members. The remaining customers are likely inactive but not yet churned.
 - Geography
+
 France: 50% of customers, churn ~17%
+
 Germany: 25% of customers, highest churn (~33%)
+
 Spain: 25%, churn ~17%
+
 Insight: Germany shows the highest churn
+
+- Credit Score
+
+Fair credit customers churn the most.
+
+Excellent/very good credit customers are the most loyal.
+
+- Age & Tenure
+
+Mid-aged and mid-tenure customers have the highest churn. They may feel disengaged after initial years
+
+- Gender
+
+Females: 54.6% of customers, churn rate 25.1%
+
+Males: 45.4%, churn rate 16.5%. Higher churn among females.
+
+
 
 # Recommendations
 - The bank should conduct targeted customer engagement and retention strategies specifically for German customers. This could include personalized offers, better customer service, and localized marketing efforts.

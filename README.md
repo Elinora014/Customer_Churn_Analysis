@@ -17,12 +17,19 @@ The data underwent thorough cleaning and transformation, with additional conditi
   ![Screenshot 2025-02-04 173154](https://github.com/user-attachments/assets/a8c2f015-902e-40fc-9f6e-69e19e9896c1)
 
 # Visualization and Insights
+This dashboard summarizes customer churn (customers leaving) for a company with 10,000 total customers, of which 2,000 (20.4%) have churned, leaving 5,000 active members. The remaining customers are likely inactive but not yet churned.
+- Geography
+France: 50% of customers, churn ~17%
+Germany: 25% of customers, highest churn (~33%)
+Spain: 25%, churn ~17%
+Insight: Germany shows the highest churn
 
 # Recommendations
 - The bank should conduct targeted customer engagement and retention strategies specifically for German customers. This could include personalized offers, better customer service, and localized marketing efforts.
 -  Introduce loyalty programs, financial incentives, or improved customer support for mid-tenure and young-tenure customers to increase retention.
 -  Understand the pain points of female customers and implement targeted retention campaigns, possibly offering personalized banking products that cater to their specific needs.
-- The bank should analyze why mid-balance customers are leaving and introduce tailored financial products or incentives to retain them. 
+- The bank should analyze why mid-balance customers are leaving and introduce tailored financial products or incentives to retain them.
+- Improve engagement and experience for female customers. 
 
 
 

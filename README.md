@@ -18,6 +18,9 @@ The data underwent thorough cleaning and transformation, with additional conditi
 
 # Visualization and Insights
 This dashboard summarizes customer churn (customers leaving) for a company with 10,000 total customers, of which 2,000 (20.4%) have churned, leaving 5,000 active members. The remaining customers are likely inactive but not yet churned.
+
+<img width="1265" height="716" alt="Screenshot 2025-10-07 153847" src="https://github.com/user-attachments/assets/08aaace4-c5bc-44ef-b5da-39a0ea81aca4" />
+
 - Geography
 
 France: 50% of customers, churn ~17%
